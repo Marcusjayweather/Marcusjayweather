@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/marcusjayarr" target="blank"><img src="https://img.shields.io/twitter/follow/marcusjayarr?logo=twitter&style=for-the-badge" alt="marcusjayarr" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analysis & Data Science**
+- 🌱 I’m currently learning **Data Analysis, Data Science & Data Engineering**
 
 - 💬 Ask me about **Python, Django, MySQL**
 
